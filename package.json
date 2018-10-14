@@ -1,0 +1,31 @@
+{
+  "name": "@kilt/ejs",
+  "version": "1.0.0",
+  "description": "ejs parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesús Germade <jesus@germade.es>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiltjs/ejs.git"
+  },
+  "keywords": [
+    "ejs",
+    "templates"
+  ],
+  "bugs": {
+    "url": "https://github.com/kiltjs/ejs/issues"
+  },
+  "homepage": "https://github.com/kiltjs/ejs#readme"
+}
