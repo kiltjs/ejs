@@ -2,9 +2,9 @@
   "name": "@kilt/ejs",
   "version": "1.0.0",
   "description": "ejs parser",
-  "main": "index.js",
+  "main": "lib/parse-ejs.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha tests/**/*-tests.js"
   },
   "author": "Jesús Germade <jesus@germade.es>",
   "license": "MIT",
