@@ -9,3 +9,4 @@ test:
 release: test
 	npm version patch
 	git push origin $(git_branch)
+	npm publish --access public
